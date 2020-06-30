@@ -1,14 +1,16 @@
-# Repository Data (RepoData) for United States Archives
+# RepoData
 
 ## About
 
-This repository contains the public-facing data for the RepoData project, an effort to gather a comprehensive data set of US archival repositories. The RepoData project team contacted over 150 archival organizations, and received more than 30,000 data points for archives and institutions with archival records across the United States.
+RepoData is a project to find, aggregate, and standardize a comprehensive data set of US archival repository locations. 
 
 ## Contact Information
 
-Ben Goldman, Penn State University, bmg17@psu.edu
-Eira Tansey, University of Cincinnati, eira.tansey@uc.edu
+* Ben Goldman, Penn State University, bmg17@psu.edu
+* Eira Tansey, University of Cincinnati, eira.tansey@uc.edu
 
-## Funding Source
+## Access/Use
 
-This project was originally supported by a Society of American Archivists Foundation grant awarded in 2017. Data processing was completed on March 1, 2019.
+This data is licensed under ODbL 1.0 license (Open Data Commons Open Database License: https://opendatacommons.org/licenses/odbl/summary/). We ask that any re-use of this data acknowledge both RepoData and the original source of individual data points.
+
+All code (located in the bin directory) is released under an MIT License.
